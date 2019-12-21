@@ -1,0 +1,30 @@
+.navbar-collapse{  
+    cursor: pointer;  
+    outline:none;  
+    font-weight:700;  
+    font-style:initial;
+ 
+} 
+.navbar-collapse .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-collapse .nav-item:hover .nav-link {
+    color: black;
+}
+
+.navbar {
+    min-height: 90px;
+   
+  }
+  .fa-shopping-cart 
+  {    
+      color: #ffffff !important;
+      
+  }
+
+  .badge
+  {
+   color:  #ffffff !important;   
+  }
+
+  
